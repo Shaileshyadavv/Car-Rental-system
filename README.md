@@ -1,12 +1,11 @@
 ## Car Rental System
 
-<img src = "https://github.com/Ellie-Y/CarRentalSystem/blob/master/presentation.gif" width = "800px" />
+Shailesh Krishna yadav 
+2301010125
 
+This project was created using Qt Creator 5.8.0 and has 8 classes. The first class that runs is the Login class.
 
+The Sign_In class is used for creating new user accounts.
 
-This project used Qt creator 5.8.0, and it divided into 8 classes, the start one is login class.
+The project uses a database. In the connectData method (found in the Login, Sign_In, and findRidePage classes), you need to enter the full path to your database file.
 
-
-- The class of Sign_In implement the function of  sign-up. (I made a typo)
-
-- It includes database, please use absolute path of your database in the "connectData" method, which located in Login, Sign_In and findRidePage classes.
